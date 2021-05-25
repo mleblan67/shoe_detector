@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>550.jpg</filename>
+	<path>/Users/meblang/Desktop/shoe_dataset/Images/550.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3840</width>
+		<height>2160</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>shoe</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1986</xmin>
+			<ymin>1195</ymin>
+			<xmax>2627</xmax>
+			<ymax>1550</ymax>
+		</bndbox>
+	</object>
+</annotation>
